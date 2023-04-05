@@ -1,0 +1,23 @@
+.error {
+    color: red;
+  }
+
+.success {
+    color: green;
+}
+
+.error,
+.success {
+    background: lightgrey;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.blogListItem {
+    border: 2px solid black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
